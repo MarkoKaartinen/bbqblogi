@@ -32,7 +32,10 @@ Kuvien lisäksi on tarjolla reseptit ja niiden lähteet mikäli muistan / löyd�
 
 Ekana päivänä heitettiin aika perinteistä settiä Weberin viisseiskaan. Makkaraa (veke ja juusto), parsaa, fetaa ja kasviksia. Kasvikset oli valmissetti nimellä kesäjuurekset.
 
-![](images/img_3912.jpeg)![](images/img_3913.jpeg)
+{{< galleria cols="2" >}}
+![](images/img_3912.jpeg)
+![](images/img_3913.jpeg)
+{{< /galleria >}}
 
 Sitten matkassa oli parsaa, joka me grillataan ilman mausteita tai öljyä. Sit grillauksen jälkeen laitetaan oliiviöljy, suoja ja pippuri pintaan. Simppeliä, mutta toimivaa.
 
@@ -54,7 +57,11 @@ Samoin tuli myös munkkitaikina tehtyä sillä pitäähän vappuna nyt olla niit
 
 Myöhemmin Weber pääsi taas töihin kun piti pistää nakit paistumaan. Hodareihin halusin ehdottomasti kokeilla burgerimiesten Ossin [Pups hodarisämpylöitä](https://www.k-ruoka.fi/artikkelit/k-kaupassa/pups-tuotesarja). Meni heittämällä jatkoon. Lisukkeena oli myös grillattua maissisalsaa, jonka resepti on löydetty [K-ruoka.fi sivuilta](https://www.k-ruoka.fi/reseptit/grillattu-maissisalsa). Kokeilussa oli myös nduja nakit, ne toimi ihan kivasti ja oli potkuakin.
 
-![](images/img_3924.jpeg)![](images/img_3927-1.jpeg)![](images/img_3928.jpeg)
+{{< galleria >}}
+![](images/img_3924.jpeg)
+![](images/img_3927-1.jpeg)
+![](images/img_3928.jpeg)
+{{< /galleria >}}
 
 Eipä taas tartte arvata maistuiko nämä eväät... Kyllä se on vaan niin, että grillistä tulleena kaikki maistuu paremmalta.
 

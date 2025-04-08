@@ -34,7 +34,11 @@ Kuivasin kanan leikkeet ja sekoitin rubia niihin ja sit sekoitin vielä kreikkal
 
 Sit meni kokeiluun Sunset Charcoalin Coffee hiilet ja olihan noi aikamoisia murkuloita. Hyvää hiiltä kamadoon kyllä.
 
-![](images/img_4015.jpeg)![](images/img_4016.jpeg)![](images/img_4017.jpeg)
+{{< galleria >}}
+![](images/img_4015.jpeg)
+![](images/img_4016.jpeg)
+![](images/img_4017.jpeg)
+{{< /galleria >}}
 
 Kamado kun alkoi lämmetä 170 astetta kohti niin länttäsin kanat folioastian päälle vartaisiin. Tässä kantsii olla puuvartaita tai sit sopivia metallisia. Noh, tarina kertoo, että mun puuvartaat joita luulin olevan kaapissa meni askarteluun. Eipä siinä, huonot metallivartaat sai pientä lyhennystä ja taivuttelua, että mahtui tohon [Bono Minimoon](/testissa-bono-minimo-kamado/).
 
@@ -42,7 +46,10 @@ Kamado kun alkoi lämmetä 170 astetta kohti niin länttäsin kanat folioastian 
 
 Mulla oli [Meater](/meater-ensimmainen-kokeilu/) kiinni tässä tornissa ja tavoitteena 75 astetta. Piti sitä silti käydä kurkkimassa tuolla kamadon sisällä... Valmiiksi tosiaan totesin tämän sen jälkeen, kun Meater ja mun tökittävä mittari näytti joka kohtaa sen 75 astetta tai enemmän. Siis näyttäähän tää ihan tosi hyvältä... Tämä otti aikaa 160-190 lämmöissä parisen tuntia.
 
-![](images/img_4024.jpeg)![](images/img_4026.jpeg)
+{{< galleria cols="2" >}}
+![](images/img_4024.jpeg)
+![](images/img_4026.jpeg)
+{{< /galleria >}}
 
 Ettei nyt pelkkää kanaa ole niin tehtiin lisukkeeksi kesäkurpitsaa ja parsaa sekä kasvissyöjälle tofua vielä. Nämä tuli tuossa pallossa kivasti samaan aikaan niin saatiin kaikki mukavasti yhtäaikaa.
 

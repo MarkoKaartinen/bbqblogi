@@ -43,7 +43,14 @@ Pottuina pistin [Oolannin lankkuja](https://www.oolannin.fi/tuote/oolannin-poimu
 
 Kasvisruokavaliolle vinkkinä kaupasta saatavat vegejauhikset. Esim. ihan Pirkan oma [Vegejauhis](https://www.k-ruoka.fi/kauppa/tuote/pirkka-vegejauhis-250g-6410405257291). Tuosta 250g paketista saa kivasti kaksi pihviä. Tee pihvit joko käsin muotoilemassa tai puristimille, mutta huomioi tosiaan se, että tämä ei kutistu grillatessa eli tee sämpylän kokoinen pihvi. Pintamausta suolalla sekä pippurilla tai muilla mausteilla. Grillaa. Jos teet pannulla niin pistä öljyä vähän. Vaimo on näitä kehunut niin pakko se on uskoa.
 
-![](images/img_3953.jpeg)![](images/img_3955.jpeg)![](images/img_3956.jpeg)![](images/img_3959.jpeg)![](images/img_3966.jpeg)![](images/img_3971.jpeg)
+{{< galleria >}}
+![](images/img_3953.jpeg)
+![](images/img_3955.jpeg)
+![](images/img_3956.jpeg)
+![](images/img_3959.jpeg)
+![](images/img_3966.jpeg)
+![](images/img_3971.jpeg)
+{{< /galleria >}}
 
 ## Reseptit
 
@@ -85,7 +92,7 @@ Tästä tulee 6kpl noin 110g sämpylää. Aikaa kannattaa varata sillä kohotuks
 
 Sekoitetaan maito, vesi ja jauhoja pienessä kattilassa keskilämmöllä, kunnes saadaan aikaan jauhomassa, joka myöhemmin lisätään taikina-aineksiin
 
-![](images/img_3941.jpeg)Tangzhong valmiina
+![](images/img_3941.jpeg "Tangzhong valmiina")
 
 **Sämpylät**
 
@@ -95,19 +102,25 @@ Sekoita loput kuiva-aineet (yleiskoneen) kulhossa. Ala pyörittää pienellä te
 
 Tee taikinasta nätti pallo ja kohota huoneenlämmössä kunnes koko on tuplaantunut. (Noin 1h 15min - 1h 45min)
 
-![](images/img_3943.jpeg)Taikinapallo valmiina kohotukseen![](images/img_3946.jpeg)Taikina kohotuksen jälkeen
+{{< galleria cols="2" >}}
+![](images/img_3943.jpeg "Taikinapallo valmiina kohotukseen")
+![](images/img_3946.jpeg "Taikina kohotuksen jälkeen")
+{{< /galleria >}}
 
 Laita vähän jauhoja työtasolle ja tee 6 x 110g palloa. Asettele uunipellille, laita toinen uunin pelti suojaksi ja Anna kohota 1h 45min huoneenlämmössä.
 
-![](images/img_3947.jpeg)Taikina pieninä palloina valmiina kohotukseen![](images/img_3949.jpeg)Pallot kohotuksen jälkeen
+{{< galleria cols="2" >}}
+![](images/img_3947.jpeg "Taikina pieninä palloina valmiina kohotukseen")
+![](images/img_3949.jpeg "Pallot kohotuksen jälkeen")
+{{< /galleria >}}
 
 Riko muna kulhoon ja sekoita pienen määrän maitoa kanssa. Voitele taikinapallot munaseoksella ja laita uunin keskitasoon 190 asteeseen noin 15-17 minuutiksi paistumaan.
 
-![](images/img_3950.jpeg)Voidellut pallot menossa uuniin
+![](images/img_3950.jpeg "Voidellut pallot menossa uuniin")
 
 Ota sämpylät pois uunista ja sivele vielä sulaa voita päälle.
 
-![](images/img_3951.jpeg)Valmiit sämpylät
+![](images/img_3951.jpeg "Valmiit sämpylät")
 
 Anna hetki jäähtyä ja nauti!
 

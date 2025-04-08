@@ -39,7 +39,10 @@ Kyllähän tuo hanger näytti tosi hyvältä, kun lihoja aloin työstämään. H
 
 Vakuumikone on muuten tosi hyvä tämmöisten lihojen kanssa, kun voit siivota lihat ja sitten sopivissa paloissa pistää vakuumiin ja pakkaseen. Pakkasesta on sitten helppo edellisenä päivänä ottaa jääkaappiin sulamaan ja pistää sit seuraavana päivänä grilliin tai pannulle.
 
-![](images/2023-05-13-09.10.50.jpg)![](images/2023-05-13-11.07.52.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-05-13-09.10.50.jpg)
+![](images/2023-05-13-11.07.52.jpg)
+{{< /galleria >}}
 
 Olen tosi tyytyväinen Atrian lihakaupan toimintaan ja en nyt tästä mitään moitteitakaan voi antaa - ainakaan tämän kokemuksen perusteella. Lihoista on maistettu burger jauhelihaa ja hanger steakkia. Molemmat on kyllä olleet joka pennin arvoiset. Petite tender on vielä kokeilematta, mutta kyllä se vielä grilliin pääsee.
 

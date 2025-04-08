@@ -134,6 +134,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+        wrapStandAloneImageWithinParagraph: false
 
 outputFormats:
   RSS:

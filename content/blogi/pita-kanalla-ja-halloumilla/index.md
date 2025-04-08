@@ -33,11 +33,17 @@ Sitten mentiin pitaleipien kimppuun. Nämäkin halusin tehdä itse sillä niist�
 
 Pitaleivät teinkin netistä löytyneellä reseptillä ja sen suomennan teille tuonne alas vielä erikseen. Näistä tuli tällä kertaa vielä parempia, kuin viime kerralla ja sehän ei meitä tietysti haittaa. Vähän ehkä oisin voinut isommaksi/ohkasemmaksi tehdä, mutta näkyi nuo häviävän. Muurikalla saikin kivasti paistettua 3 näitä kerralla ja nopeutti huomattavasti paistoa.
 
-![](images/img_4096.jpeg)![](images/img_4097.jpeg)
+{{< galleria cols="2" >}}
+![](images/img_4096.jpeg)
+![](images/img_4097.jpeg)
+{{< /galleria >}}
 
 Sitten itse asiaan. Eli grillaukseen. Olin tarjoushaukkana ostanut punalaputettua kanaa ja pistin ne vartaisiin ja grilliin. Niiden kaveriksi Muurikassa otettiin halloumille kiva pinta ja oli siellä tofuakin grillautumassa.
 
-![](images/img_4098.jpeg)![](images/img_4101.jpeg)
+{{< galleria cols="2" >}}
+![](images/img_4098.jpeg)
+![](images/img_4101.jpeg)
+{{< /galleria >}}
 
 Sit tulee se vaikein eli täyttäminen. Heitä pohjalle tsatsikia ja pistä muut täytteet sisään. Sen jälkeen pistät menemään ääntä kohti ja voin sanoa, että oli hyvää. Meillä ei näissä versioissa ollut ranskalaisia nyt ollenkaan sillä kana / halloumi oli ihan riittävä.
 

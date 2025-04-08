@@ -31,7 +31,10 @@ Ekahan tietysti otetaan paketista pois ja pyyhitään enimmät soosit pois. Sen 
 
 Nakuna ollessa kävin about 20min välein hieman omppumehua suihkuttelemassa päälle. Lämmötkin pääs karkaamaan 150 asteeseen, mutta eipä se ole niin justiinsa. Jonkun 1h20min jälkeen käärin kaverit folioon ja pistin vielä hieman omppumehua kaveriksi. Samoihin lämpöihin 1.5 tunniksi. Taisipa olla ehkä lähemmäs 2 tuntia tuolla kun terassia pesi samalla.
 
-![](images/2023-05-28-11.23.09.jpg)![](images/2023-05-28-12.32.49.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-05-28-11.23.09.jpg)
+![](images/2023-05-28-12.32.49.jpg)
+{{< /galleria >}}
 
 Ribsithän oli valmista kamaa jo tuon jälkeen. Pistin noi kuitenkin lautaselle ja peitin foliolla. Ne oli siellä nelisen tuntia ja ajatus oli juurikin tämä, että teen ribsit valmiiksi niin ei ole epävarmuutta sitten myöhemmin ja ei tarvitse odotella näiden valmistumista.
 

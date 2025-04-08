@@ -41,11 +41,16 @@ Mitäpä sillä ei ole grillattu? Tällähän voit käytännössä grillata kaik
 
 Itselle eka ns. pitkä veto oli tietysti [pulled pork](/tehdaan-pulled-pork-kamadolla/) eli kassler meni sinne. Tämän tekoa suosittelen melkein muillekin ensimmäiseksi pitkäksi vedoksi low & slow tekniikalla sillä se antaa paljon anteeksi ja ei ole niin justiinsa. Ei kyllä ihan niin justiinsa kotona grillaamisessa ole mikään, mutta silti.
 
-![](images/2021-08-21-14.42.11.jpg)Pulled Pork tulossa
+![](images/2021-08-21-14.42.11.jpg "Pulled Pork tulossa")
 
 Tulipa tätä käytettyä myös [kylmäsavustuksessa](/mustang-savunkehitin-kylmasavustuksessa-kokeillaan-tehda-kylmasavulohta-ja-savujuustoa/), kun oli just sopiva siihen hommaan. Eli mielikuvitusta voi tosiaan näiden kanssa käyttää. Toki tässä paistuu ihan perus makkarat, kasvisnyytit sekä [burgeritkin](/tehdaan-burgereita/). Pihvit menee suoraan kuumalla tai reverse sear tekniikalla. Kuten tässä nyt tehtiin [petite tenderiä](/tehdaan-ensimmaista-kertaa-petite-tender/) myös ja alkuun pienemmällä lämmöllä kamadossa ja loppuun pallossa.
 
-![](images/2021-09-18-00.34.43-7.jpg)Kylmäsavustusta![](images/2022-03-20-15.46.29-scaled.jpg)Possunoppia![](images/2022-05-04-17.16.40-scaled.jpg)Burgeria![](images/2022-05-14-18.25.10.jpg)Petite tender
+{{< galleria cols="2" >}}
+![](images/2021-09-18-00.34.43-7.jpg "Kylmäsavustusta")
+![](images/2022-03-20-15.46.29-scaled.jpg "Possunoppia")
+![](images/2022-05-04-17.16.40-scaled.jpg "Burgeria")
+![](images/2022-05-14-18.25.10.jpg "Petite tender")
+{{< /galleria >}}
 
 Kaikkeahan tällä voi grillata mitä muillakin vehkeillä. Erityisesti kamado soveltuu kuitenkin näihin low & slow hommiin sen lämmönsäädön ja keramiikan ansiosta. Tosin porukka paistelee isommilla kamadoilla pizzaakin tosi kovissa lämmöissä eli loppujaan ei rajaa ehkä olekaan...
 
@@ -63,7 +68,7 @@ Matalissa lämpötiloissa on itsellä vielä opettelemista sillä tulee hieman s
 
 Itsellä käyttö hieman laajeni tässä, kun hankin [monitoimiritilän](https://www.bigshop.fi/tuote/monitoimiritila-minimoon/) tähän. Ajatuksena oli saada [possunoppia](/possunopat-kamadossa/) parille eri tasolle. Possunoppia en ole vielä tehnyt, mutta olen huomannut jo burgereiden teossa tuon hyödylliseksi jo noiden kahden puoliympyrän muotoisten kivien ansiosta. Samoin kanaa ja pottuja tehdessä sain tuohon molemmat mahtumaan helposti yhtä aikaa. Tämä onkin lisäosa mitä voin suositella mihin tahansa kamadoon koosta riippumatta.
 
-![](images/2022-05-10-18.12.49.jpg)Kahden kerroksen väkeä
+![](images/2022-05-10-18.12.49.jpg "Kahden kerroksen väkeä")
 
 Sehän on myös huomioitava, että tämä "kylmenee" hitaammin, kuin esim. pallogrilli. Keramiikka tosiaan pitää lämpöä hyvin vaikka kaikki luukut olisi kiinni ja saattaa olla lämpöä hyvinkin vielä useamman tunnin ajan sen jälkeen, kun ollaan varsinkin kovilla lämmöillä grillattu. Tämä myös kannattaa ottaa huomioon jos ajatus on ensin kuumalla ja sitten ei niin kuumalla, että lämmönsäätö ottaa aikansa. Kuten myös muutenkin, ei ole sitä hätäisen hommaa.
 

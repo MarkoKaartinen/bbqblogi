@@ -1,0 +1,26 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $src := $u.String -}}
+{{- if not $u.IsAbs -}}
+{{- $path := strings.TrimPrefix $u.Path "./" -}}
+{{- with or (.Page.Resources.GetMatch $path) (resources.GetMatch $path) -}}
+{{- $src = .RelPermalink -}}
+{{- if $u.RawQuery -}}
+{{- $src = printf "%s?%s" $src $u.RawQuery -}}
+{{- end -}}
+{{- if $u.Fragment -}}
+{{- $src = printf "%s#%s" $src $u.Fragment -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{- $alt := .Text | default .Title -}}
+{{- $title := .Title | transform.HTMLEscape -}}
+
+<figure>
+    <a href="{{ $src }}" class="glightbox">
+        <img alt="{{ $alt }}" src="{{ $src }}" title="{{ $title }}" loading="lazy">
+    </a>
+    {{- if .Title }}
+    <figcaption>{{ .Title }}</figcaption>
+    {{- end -}}
+</figure>

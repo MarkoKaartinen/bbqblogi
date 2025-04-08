@@ -28,23 +28,43 @@ On toki tehty [pulled porkkia ennenkin](/tehdaan-pulled-pork-kamadolla/), mutta 
 
 Kassu otettiin edellisenä päivänä jääkaappiin sulamaan ja aamulla sitten vielä huoneenlämpöön. Silleen pari tuntia ennen paistoa heitin suolaa, pippuria ja valkosipulijauhetta sekaisin ja hieroin kassun pintaan. Sitten alkoikin kamadon sytytys.
 
-![](images/2023-01-08-11.49.02.jpg)![](images/2023-01-08-12.01.41.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-01-08-11.49.02.jpg)
+![](images/2023-01-08-12.01.41.jpg)
+{{< /galleria >}}
 
 Nooo, tämähän ei mennyt kuin strömssössä ja oli perhana jäässä. Internetin ihmeellisestä maailmasta olin lueskellut joskus, että laittamalla pientä tulta tuhkaluukusta sisään voi helpottaa, mutta ei tuon minimon tuhkaluukusta mitään laitella ja ei mulla nyt ole aikaakaan semmoiseen. En kuumailmapuhallinta omista (pitäisi ehkä hankkia), mutta vaimollapa on hiustenkuivain. Hiustenkuivain täysille ja lämmöt päälle ja sulattelemaan. Hyvin se suli ja sai yläluukut auki ja sitten tiivisteet myös auki.
 
-![](images/2023-01-08-12.07.41.jpg)![](images/2023-01-08-12.11.06.jpg)![](images/2023-01-08-12.12.20.jpg)![](images/2023-01-08-12.17.41.jpg)![](images/2023-01-08-12.18.35.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-01-08-12.07.41.jpg)
+![](images/2023-01-08-12.11.06.jpg)
+![](images/2023-01-08-12.12.20.jpg)
+![](images/2023-01-08-12.17.41.jpg)
+![](images/2023-01-08-12.18.35.jpg)
+{{< /galleria >}}
 
 Noh. Eihän tuo sytyttäminenkään mennyt ihan niin kuin piti, kun oli sytytyspalat loppunut niin mentiin vanhalla kunnon paperilla ja tulitikuilla. Sähkösytkästäkin, kun oli akku loppunut. Varastosta olikin viimeinen pussi marabua menossa ja sekaan omppupuuta savua tuomaan. Noh, oman aikansa otti niin päästiin sit kuitenkin sinne tavoitelämpöön eli 130 asteen kantturaan.
 
-![](images/2023-01-08-12.28.34.jpg)![](images/2023-01-08-13.12.37.jpg)![](images/2023-01-08-13.22.43.jpg)![](images/2023-01-08-13.42.13.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-01-08-12.28.34.jpg)
+![](images/2023-01-08-13.12.37.jpg)
+![](images/2023-01-08-13.22.43.jpg)
+![](images/2023-01-08-13.42.13.jpg)
+{{< /galleria >}}
 
 Sitten kassua sisään ja Meateria kiinni (tän sentään olin älynnyt päivittää edellisenä iltana). Pelisuunnitelmana oli pitää lämpö siinä 130 asteessa koko ajan (120-140 oli vaihteluväli oikeastaan kun säätelin vähän välistä) ja kassu folioveneeseen siinä 70 sisälämmön jälkeen ja sitten loppuun asti.
 
-![](images/2023-01-08-14.33.05.jpg)![](images/2023-01-08-15.15.38.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-01-08-14.33.05.jpg)
+![](images/2023-01-08-15.15.38.jpg)
+{{< /galleria >}}
 
 Illalla sitten siinä ennen saunaa oli sisälämmöt 94 pinnassa ja kävin tökkimässä. Päädyin ottamaan Meaterista hälyt pois ja lähdin saunaan. Saunan jälkeen olikin sitten sisälämmöt jo 96 pinnassa ja tökkiminen oli jo parempi. Otin siitä sitten kassun pois ja repimishommiin.
 
-![](images/2023-01-08-19.50.31.jpg)![](images/2023-01-08-19.58.16.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-01-08-19.50.31.jpg)
+![](images/2023-01-08-19.58.16.jpg)
+{{< /galleria >}}
 
 Lopputulos oli oikein passeli ja menee osa kyllä pakkaseen. Tuota sitten voi tuunailla kastikkeilla ja mausteilla miten haluaa. Itse tekasin tuossa sitten vielä purilaista pottujen kera ja tähänkin toimii oikein hyvin. Potut tuli muuten tekastua uuden karhealla airfryerillä!
 

@@ -24,7 +24,7 @@ Aloitetaan ensin kertomalla hieman mikä vortex oikein on. Tämähän on suht mo
 
 Vortexin ajatus on nimenomaan keskittää hiilien tuottama lämpö yhteen paikkaan ja näin ollen se tulee vortexin yläosasta suoraan ylöspäin. Tämä tekee lämmöstä todellä lämpimän (jopa 300+ astetta). Lämmön on ajatus jakautua pallogrillin kuvusta reunoille. Tämän takia ruoka asetellaankin keskelle. Alta näettekin hieman millainen setup tämä on, kun grillataan wingsejä.
 
-[![](images/2021-08-07-18.11.39.jpg)](images/2021-08-07-18.11.39.jpg)
+![](images/2021-08-07-18.11.39.jpg)
 
 Sitten siihen miten tommoinen vitosen vortex oikein tehdään.
 
@@ -47,7 +47,7 @@ Itsellä oli lämmöt about 250 asteessa pallon oman mittarin mukaan
 
 Eli aika helppo ja nopea grillaus. Itse vedin wingsit napaan tsatsikin ja vihannesten kera.
 
-[![](images/2021-08-07-18.47.34.jpg)](images/2021-08-07-18.47.34.jpg)
+![](images/2021-08-07-18.47.34.jpg)
 
 Tämä on ehkä edullisin lisäosa mitä olen omaan pallogrilliin hankkinut. Voin kyllä suositella kaikille joilla on vastaava pallogrilli.
 

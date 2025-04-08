@@ -23,7 +23,7 @@ slug: kreikkalaistyylisia-jauhelihapotkoja-tsatsikia-ja-kasviksia
 ---
 Tällä kertaa tehdään hieman kreikkalaistyylistä ruokaa. Ajatuksena oli tehdä jauhelihapötköjä kreikkalaisilla mausteilla. Siihen grillattuja kasviksia ja tsatsikia kaveriksi. Loppumetreillä tuli käärittyä ne tortillaan, mutta pita olisi ollut parempi.
 
-![](images/2023-05-07-12.37.05-1.jpg)Kai tästä jotain evästä saa?
+![](images/2023-05-07-12.37.05-1.jpg "Kai tästä jotain evästä saa?")
 
 ## Tsatsiki
 
@@ -55,13 +55,13 @@ Resepti löydetty: [Real Greek Recipes](https://realgreekrecipes.com/tzatziki-re
 
 Tähän ajatus lähti oikeastaan siitä, että muistin Kreikan matkoilta tuodun lihapulla maustemixin. Tässä on sitä Kreikan makua ja tämähän toimi hyvin. Siihen kaveriksi grillikasviksia.
 
-![](images/2023-05-07-14.00.55-1.jpg)Kreikkalainen lihapulla maustesekoitus
+![](images/2023-05-07-14.00.55-1.jpg "Kreikkalainen lihapulla maustesekoitus")
 
 Resepti on tähän simppeli eli suolaa ja mausteita pussista sekaan ja sekoitellaan jonkun aikaa. Sitten tehdään pötköjä.
 
 Kasviksissa on myös simppeli resepti. Katsotaan mitä jääkaapista löytyy ja pistetään sopiviksi paloiksi kulhoon ja sitten öljyä, suolaa ja pippuria.
 
-![](images/2023-05-07-13.10.35-1.jpg)Grillausta vaille valmista
+![](images/2023-05-07-13.10.35-1.jpg "Grillausta vaille valmista")
 
 ## Grillaus
 
@@ -71,7 +71,10 @@ Pistetään ensin pallo lämpimäksi ja nyt mennään hot&fast tyylillä. Työv�
 
 Kun on saatu ns. pöhinää pönttöön niin pistetään kaikki grilliin. Itsellä oli kasviksille tommoinen grillikorin tyylinen systeemi jossa niitä oli helppo käännellä. Lämmitin vielä tortilloja grillissä kun oli muut valmiina.
 
-![](images/2023-05-07-13.44.43-1.jpg)![](images/2023-05-07-13.52.36-1.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-05-07-13.44.43-1.jpg)
+![](images/2023-05-07-13.52.36-1.jpg)
+{{< /galleria >}}
 
 ## Syömään!
 

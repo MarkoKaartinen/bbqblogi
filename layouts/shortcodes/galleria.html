@@ -1,0 +1,4 @@
+{{ $cols := .Get "cols" | default "3" }}
+<div class="galleria galleria-sarakkeet-{{ $cols }}">
+{{ .Inner | markdownify }}
+</div>

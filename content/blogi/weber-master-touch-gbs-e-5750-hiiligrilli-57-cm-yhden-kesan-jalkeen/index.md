@@ -44,11 +44,17 @@ Sattuipa tuolloin toukokuussa olemaan vielä Motonetissä kampanja tämän grill
 
 Ensin lähdettiin opettelemaan grillin sytyttämistä piippusytyttimellä. En ollut aiemmin käyttänyt, mutta tämähän onnistuu helposti. Piippuun hiiliä ja sytytyspala alle. Sitten sytytys ja odotellaan, että hiilet/briketit syttyy. Tämän jälkeen kaadetaan hiilet grilliin. Tämä metodi on ollut itsellä pääasiallisesti käytössä ja en ole vielä kokenut tarvetta muille tavoille. Tulenen testaamaan paria tapaa tänne blogiin, mutta siitä lisää myöhemmin.
 
-[![](images/2021-06-05-16.59.41.jpg)](images/2021-06-05-16.59.41.jpg)
+![](images/2021-06-05-16.59.41.jpg)
 
 Kun grilli on saatu syttymään niin onkin hyvä puhua mitä kaikkea onkaan tullut tehtyä. Sitähän on grillattu kaikenlaista aina perus makkarasta ribseihin asti. [Ribsit](/ikean-teline-ribseille-grillikylkiteline/) on tällä hetkellä niitä ns. pidempiä grillauksia ja makkarat taasen näitä nopeampia. Ajatuksena on vielä grillailla paljon lisää ja toiveissa olisi jatkaa grillausta ympärivuoden eikä vain kevät-kesä-syksy akselilla. Kokeiluun on vielä menossa pulled pork ja muuta pidemmän kypsytyksen kamaa. [Wingsejä](/ikean-viiden-euron-vortex-seka-wingsien-teko/) on tullut myös tehtyä ja täytyy vielä kehua niitä. Alla onkin pari kuvaa vielä.
 
-[![](images/2021-05-29-18.30.29.jpg)](images/2021-05-29-18.30.29.jpg)[![](images/2021-08-07-18.11.39-1.jpg)](images/2021-08-07-18.11.39-1.jpg)[![](images/2021-07-23-17.46.30.jpg)](images/2021-07-23-17.46.30.jpg)[![](images/2021-07-10-14.26.01.jpg)](images/2021-07-10-14.26.01.jpg)[![](images/2021-08-07-18.47.34.jpg)](images/2021-08-07-18.47.34.jpg)
+{{< galleria cols="2" >}}
+![](images/2021-08-07-18.11.39-1.jpg)
+![](images/2021-07-23-17.46.30.jpg)
+![](images/2021-07-10-14.26.01.jpg)
+![](images/2021-05-29-18.30.29.jpg)
+![](images/2021-08-07-18.47.34.jpg)
+{{< /galleria >}}
 
 ## Ajatuksia itse grillistä
 

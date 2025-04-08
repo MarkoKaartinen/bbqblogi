@@ -23,11 +23,19 @@ Tuli tosiaan aiemmin tilattua hanger steakkia [Atrian lihakaupasta](/kokeilussa-
 
 Ajatus lähti oikeastaan siitä, kun eräänä perjantaina kaupasta tarttui mukaan tarjouksesta uusia pottuja (harmillisesti ruotsalaisia) sekä kevät sipulia. Siinähän on siis lauantaille hyvä eväs, kun ottaa kaveriksi palan hanger steakkia pakkasesta.
 
-![](images/2023-06-10-14.47.11.jpg)![](images/2023-06-10-14.51.35.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-06-10-14.47.11.jpg)
+![](images/2023-06-10-14.51.35.jpg)
+{{< /galleria >}}
 
 Ensin tein salaatin ja sitten pesin potut ja laitoin ne kiehumaan. Sitten olikin aika pistää kamadoon tulia ja ajatus oli tosiaan tehdä kuumalla tämä hangeri ja käännellä sitä aika ajoin. Tavoitteena oli sisälämpöön 52 astetta ja tässä touhussa on tuommoinen tökättävä lämpömittari tosi hyvä.
 
-![](images/2023-06-10-15.30.49.jpg)![](images/2023-06-10-15.43.58.jpg)![](images/2023-06-10-15.44.48.jpg)![](images/2023-06-10-15.52.37.jpg)
+{{< galleria cols="2" >}}
+![](images/2023-06-10-15.30.49.jpg)
+![](images/2023-06-10-15.43.58.jpg)
+![](images/2023-06-10-15.44.48.jpg)
+![](images/2023-06-10-15.52.37.jpg)
+{{< /galleria >}}
 
 Sitten, kun oli lihaan saatu sopiva lämpö niin liha hetkeksi lepäämään (vaikein vaihe). Tässä välissä potut olikin käytännössä valmiita ja ei tarvinnut, kun heitellä kaikki lautaselle odottelemaan hangeria.
 
