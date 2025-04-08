@@ -1,0 +1,8 @@
+<nav class="pagination">
+    {{ if .Paginator.HasPrev }}
+    <a class="prev" href="{{ .Paginator.Prev.URL }}">← Edellinen</a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <a class="next" href="{{ .Paginator.Next.URL }}">Seuraava →</a>
+    {{ end }}
+</nav>

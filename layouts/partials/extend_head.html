@@ -1,0 +1,5 @@
+{{ if eq hugo.Environment "production" }}
+{{ if .Site.Params.plausible_enabled }}
+    <script defer data-domain="{{ .Site.Params.plausible_site }}" data-api="{{ .Site.Params.plausible_event }}" src="{{ .Site.Params.plausible_script }}"></script>
+{{ end }}
+{{ end }}

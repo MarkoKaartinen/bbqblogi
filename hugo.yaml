@@ -1,0 +1,141 @@
+baseURL: https://bbqblogi.fi
+languageCode: fi
+title: BBQ Blogi
+
+defaultContentLanguage: fi
+
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+enableEmoji: true
+
+sitemap:
+  filename: sitemap.xml
+  changefreq: daily
+
+pagination:
+  pagerSize: 5
+  path: sivu
+
+permalinks:
+  blogi: "/:slug/"
+  avainsanat: "/avainsana/:slug/"
+  kategoriat: "/kategoria/:slug/"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+languages:
+  fi:
+    languageName: "Suomi"
+    weight: 1
+    taxonomies:
+      category: kategoriat
+      tag: avainsanat
+
+menu:
+  main:
+    - name: "Foorumi"
+      url: "https://bbq.palstat.fi"
+      weight: 5
+    - name: "Pitmaster"
+      url: "/pitmaster/"
+      weight: 10
+    - name: "Arkisto"
+      url: "/arkisto/"
+      weight: 15
+    - name: "Haku"
+      url: "/haku/"
+      weight: 25
+
+params:
+  env: production
+
+  # Logo
+  label:
+    text: "BBQ Blogi"
+    icon: /images/logo.png
+    iconHeight: 45
+
+  mainSections:
+    - blogi
+
+  DateFormat: "02.01.2006"
+  author: Marko
+  description: "Blogi grillauksesta, grilleista, resepteistä, ruoasta ja kaikesta mitä bbq pitää sisällään. Yhden pitmasterin turinoita."
+
+  defaultTheme: auto
+  disableThemeToggle: false
+  hideMeta: true
+  showShareButtons: false
+  showReadingTime: false
+  showToc: false
+  showBreadCrumbs: false
+  showCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: false
+  ShowPostNavLinks: true
+  comments: true
+  hideFooter: true
+  ShowFullTextinRSS: true
+
+  assets:
+    favicon: /images/favicon.ico
+    favicon16x16: /images/favicon-16x16.png
+    favicon32x32: /images/favicon-32x32.png
+    apple_touch_icon: /images/apple-touch-icon.png
+    safari_pinned_tab: /images/favicon.svg
+
+  plausible_enabled: true
+  plausible_site: "bbqblogi.fi"
+  plausible_event: "/pla/event"
+  plausible_script: "/pla/script.js" #https://analytics.elysium.fi/js/script.hash.outbound-links.js
+
+  # Search
+  useOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: [ "title", "permalink", "summary", "content" ]
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  homeInfoParams:
+    Title: "BBQ Blogi"
+    Content: >
+      Blogi grillauksesta, grilleista, resepteistä, ruoasta ja kaikesta mitä bbq pitää sisällään. Yhden "pitmasterin" turinoita.
+      <br /><br />
+      <strong>Tule mukaan grillaamaan!</strong> 🔥
+      <br />
+      <br />
+      Tutustu myös foorumiin osoitteessa <a href="https://bbq.palstat.fi">bbq.palstat.fi</a> ja liity mukaan keskusteluun!
+  socialIcons:
+    - name: "mastodon"
+      url: "https://blogi.social/@bbq"
+    - name: "rss"
+      url: "/feed.xml"
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed

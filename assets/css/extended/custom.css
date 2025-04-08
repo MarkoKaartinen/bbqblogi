@@ -1,0 +1,57 @@
+.entry-cover img {
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.post-cats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.post-cats li {
+    display: inline-block;
+}
+
+.post-tags a {
+    line-height: 24px;
+    padding: 0 10px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 0.025em;
+}
+
+.post-cats a {
+    font-weight: bold;
+    letter-spacing: 0.025em;
+    display: block;
+    padding: 0 10px;
+    color: var(--secondary);
+    font-size: 12px;
+    line-height: 24px;
+    text-transform: uppercase;
+    background: var(--code-bg);
+    border-radius: var(--radius);
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+}
+
+.post-cats a:hover {
+    background: var(--border);
+}
+
+.paginav {
+    border:none;
+    background: none;
+    padding:20px 0;
+}
+
+.paginav a {
+    padding:0;
+}
+
+.paginav a:hover {
+    background: none;
+}
