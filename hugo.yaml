@@ -93,7 +93,7 @@ params:
   plausible_enabled: true
   plausible_site: "bbqblogi.fi"
   plausible_event: "/pla/event"
-  plausible_script: "/pla/script.js" #https://analytics.elysium.fi/js/script.hash.outbound-links.js
+  plausible_script: "/pla/script.js"
 
   # Search
   useOpts:

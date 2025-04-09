@@ -1,5 +1,5 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: '{{ replace .File.ContentBaseName "-" " " | humanize }}'
 slug: '{{ .File.ContentBaseName }}'
 date: '{{ .Date }}'
 draft: true
@@ -8,4 +8,5 @@ cover:
   image:
 kategoriat:
 avainsanat:
+
 ---

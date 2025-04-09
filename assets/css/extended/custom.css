@@ -1,3 +1,9 @@
+body {
+    margin-top:var(--gap);
+    background: var(--theme) url(/images/bbqtausta.png) repeat !important;
+    background-size: auto;
+}
+
 #menu {
     display: flex;
     align-items: center;
