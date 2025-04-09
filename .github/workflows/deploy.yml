@@ -13,17 +13,17 @@ jobs:
     steps:
       # Checkout repository
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # Setup Hugo
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "latest"
 
       # Build Hugo site
       - name: Build site
-        run: hugo --minify
+        run: hugo
 
       # Setup SSH
       - name: Setup SSH
