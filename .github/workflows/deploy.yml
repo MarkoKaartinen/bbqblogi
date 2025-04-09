@@ -14,6 +14,9 @@ jobs:
       # Checkout repository
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
 
       # Setup Hugo
       - name: Setup Hugo
@@ -23,7 +26,10 @@ jobs:
 
       # Build Hugo site
       - name: Build site
-        run: hugo
+        run: hugo --minify
+
+      - name: List built files
+        run: ls -al public/
 
       # Setup SSH
       - name: Setup SSH
