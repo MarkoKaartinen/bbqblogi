@@ -1,20 +1,52 @@
 {{ if eq hugo.Environment "production" }}
-    <div style="padding:15px 0;">
+    <div>
+        <div class="post-content">
+            <h2>Keskustelu</h2>
+            <p>Osallistu keskusteluun kommentoimalla foorumimme kautta!</p>
+        </div>
+
         <div id='discourse-comments'></div>
         <meta name='discourse-username' content='marko'>
 
         <script type="text/javascript">
-            DiscourseEmbed = {
-                discourseUrl: 'https://bbq.palstat.fi/',
-                discourseEmbedUrl: "{{ .Permalink }}",
-                className: 'discourse-upotus',
-            };
+            function initializeDiscourseEmbed() {
+                DiscourseEmbed = {
+                    discourseUrl: 'https://bbq.palstat.fi/',
+                    discourseEmbedUrl: "{{ .Permalink }}",
+                    className: document.body.classList.contains('dark') ? 'discourse-upotus-tumma' : 'discourse-upotus',
+                };
+                
+                // Poista olemassa oleva Discourse-skripti, jos se on jo ladattu
+                const existingScript = document.querySelector('script[src*="javascripts/embed.js"]');
+                if (existingScript) {
+                    existingScript.remove();
+                }
 
-            (function() {
-                var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
-                d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
-            })();
+                // Ladataan Discourse-skripti
+                (function() {
+                    var d = document.createElement('script');
+                    d.type = 'text/javascript';
+                    d.async = true;
+                    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+                })();
+            }
+
+            function observeThemeChanges() {
+                // Tarkkaile muutoksia body-elementin class-attribuutissa
+                const observer = new MutationObserver(() => {
+                    // Päivitä DiscourseEmbed ja lataa skripti uudelleen
+                    initializeDiscourseEmbed();
+                });
+
+                observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+            }
+
+            // Alusta DiscourseEmbed ja lisää tarkkailija teemamuutoksille
+            document.addEventListener("DOMContentLoaded", function() {
+                initializeDiscourseEmbed();
+                observeThemeChanges();
+            });
         </script>
     </div>
 {{ end }}
