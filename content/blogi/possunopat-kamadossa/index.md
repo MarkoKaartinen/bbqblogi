@@ -3,7 +3,7 @@ author: Marko
 kategoriat:
   - Reseptit
 cover:
-  image: images/2022-03-20-12.38.42-scaled.jpg
+  image: images/possunopat-kuva-1.jpg
 date: "2022-03-21T05:20:46+00:00"
 avainsanat:
   - BBQ
@@ -24,42 +24,42 @@ Pakko myöntää, talvella tuli grillattua tosi huonosti. Ihan hävettää. Uute
 
 Possunoppiin törmäsin Facebookissa/Instagrammissa ja tarkemmin [Mikko](https://www.instagram.com/valtsungrilli/) siellä niitä postaili sinne. Sattuipa vielä kassleri olemaan K-Citymarketissa tarjouksessa.
 
-![](images/2022-03-19-18.08.05.jpg "Vajaa pari kiloa kassua, tästä käytettiin noin puolet")
+![](images/possunopat-kuva-2.jpg "Vajaa pari kiloa kassua, tästä käytettiin noin puolet")
 
 Koska näitä tulisin syömään vain minä itse ja Bono Minimon tila on rajallinen niin päädyin tekemään puolet tästä kassusta ja puolet pistin pakkaseen odottamaan seuraavaa kertaa. Tehdään kassusta sopivia kuutioita (tai ainakin sinnepäin) ja pistetään rubi pintaan. Laittele myös suolaa jos ei rubissa sitä ole. Nyt oli Poppamiehen Burgers & Ribs rubia ja oisin voinut uskaltaa reilummin pistää. Ensi kerralla ehkä mennään ihan perinteisellä suola ja pippuri kombolla. Itse annoin maustua yön yli jääkaapissa näiden noppien vielä.
 
-![](images/2022-03-19-18.20.39.jpg "Rubi pintaan ja maustumaan")
+![](images/possunopat-kuva-3.jpg "Rubi pintaan ja maustumaan")
 
 Sitten kun on odoteltu seuraavaan päivään on aika pistää kamado kuumaksi. Ensiksi nopat pistetään "nakuna" tunniksi ritilälle ja asteita olisi noin 110 celciusta. Epäsuoraa lämpöä haetaan. Tämähän onnistuu myös pallollakin. Isomman satsin ajattelinkin tehdä sillä ensi kerran. Alta näkeekin, että Bono Minimoon meni sopivasti tuo määrä mitä leikkelin.
 
-![](images/2022-03-20-12.38.42.jpg "Nakuna ritilällä")
+![](images/possunopat-kuva-4.jpg "Nakuna ritilällä")
 
 Tunnin jälkeen alkaa jo nopat näyttää hyvältä. Ne onkin sitten aika pistää folioon tai vuokaan tai mihin haluatkaan. Itse käytin paria pientä foliovuokaa. Sinne sekaan haluamasi soosi niin ei pääse kuivamaan. Itselle valikoitui Poppamiehen Smoky Hickory BBQ soosi. Vuoka foliolla vielä peittoon.
 
 Vuoassa ja peitettynä sekä soosattuna nämä on sitten pari tuntia samassa noin 110 asteessa. Suosittelen sekoittelemaan ja lisäämään tarvittaessa soosia jos näyttää siltä.
 
 {{< galleria >}}
-![](images/2022-03-20-13.42.02.jpg "Tunnin jälkeen alkaa näyttää jo hyvältä")
-![](images/2022-03-20-13.45.16.jpg "Soosia pintaan ja vuokaan")
-![](images/2022-03-20-13.45.59.jpg "Siellä ovat peiteltynä")
+![](images/possunopat-kuva-5.jpg "Tunnin jälkeen alkaa näyttää jo hyvältä")
+![](images/possunopat-kuva-6.jpg "Soosia pintaan ja vuokaan")
+![](images/possunopat-kuva-7.jpg "Siellä ovat peiteltynä")
 {{< /galleria >}}
 
 Pitihän se välistä käydä kurkkaamassa miltä siellä oikein näyttää.
 
 {{< galleria cols="2" >}}
-![](images/2022-03-20-15.25.01.jpg)
-![](images/2022-03-20-15.25.35.jpg)
+![](images/possunopat-kuva-8.jpg)
+![](images/possunopat-kuva-9.jpg)
 {{< /galleria >}}
 
 Parin tunnin jälkeen otetaankin tovereilta foliokansi pois ja pistetään hieman lisää lämpöä (150-200) ja annetaan olla vielä 15-30 minsaa. Tässä vaiheessa voi kanssa lisätä halutessaan soosia glaseeraukseen.
 
 Alta näkeekin sen, että vasemmassa vuoassa oli enemmän soosia kuin oikeassa. Siitä johtunee se, että hieman tummui tuo oikean vuoan palat. Olisi siis hieman pitänyt lisätä soosia ja sekoitella tuossa parin tunnin aikana.
 
-![](images/2022-03-20-15.46.29.jpg "Kohta valmista")
+![](images/possunopat-kuva-10.jpg "Kohta valmista")
 
 Sitten alkaakin tämä homma olla taputeltuna ja aika alkaa maistelemaan.
 
-![](images/2022-03-20-16.14.02.jpg "Syömään!")
+![](images/possunopat-kuva-11.jpg "Syömään!")
 
 Näähän onnistu siis tosi hyvin. Liha mureni melkein itsestään ja olihan nää nyt hyviä. Tätä voi varioida nimenomaan soosilla ja rubilla. Kuten mainitsin niin ensi kerran varmaan ihan perinteinen suola ja pippuri kombo. Soosiksi voisi myös itse koittaa tehdä bbq kastiketta.
 

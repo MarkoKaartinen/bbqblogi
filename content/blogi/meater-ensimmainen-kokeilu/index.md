@@ -3,7 +3,7 @@ author: Marko
 kategoriat:
   - Lisävarusteet
 cover:
-  image: images/2021-08-21-12.59.58.jpg
+  image: images/meater-kokeilu-kuva-1.jpg
 date: "2021-08-23T07:00:49+00:00"
 avainsanat:
   - Grillaus
@@ -22,7 +22,7 @@ Tuli sitten hankittua Meater+ langaton lämpömittari nimenomaan tuohon grillito
 
 Unboxaus on jo peruskamaa. Näppärä laatikko ja ennen kaikkea tuo koko tuote on hieno. Itse mittari on hitusen paksuhko vs. muut langalliset mittarit, mutta tämä onkin langaton ja tuon sisään pitää mahtua sitä elektroniikkaa ja akkukin. Se siis selittää tuota kokoa. Puinen säilytyskotelo/telakka on hieno ja se tuokin tähän jo premium luokan tuotteen tuntua.
 
-![](images/2021-08-21-12.59.58.jpg)
+![](images/meater-kokeilu-kuva-1.jpg)
 
 Eka kantsii asentaa tuo applikaatio sillä se alkaa neuvomaan sinua. Sitten otetaan suojamuovit ja muovilirpake pariston luota pois, jotta itse mittari alkaa ladata itseään. Nyt sitten oma huomio sillä sun pitää oikeasti antaa tuon latautua se nelisen tuntia, jotta homma lähtee rokkaamaan. Osta siis tämä edellisenä päivänä äläkä samana päivänä milloin pitäisi käyttää. Tuo "tikku" ei nimittäin yhdisty tuohon telakkaan ennen kuin siinä on tarpeeksi virtaa. Applikaatiossa pitääkin suorittaa kaikki stepit ennen kuin voit alkaa synkkaamaan sitä oikein. Yksi steppi on antaa tuon ladata se neljä tuntia. Tiedän tämän, koska itse laitoin siihen, että "joo joo kyllä latasi" ja eihän se sitten saanut lämpötiloja tuosta... Noh tästä oppineena voinkin tämän jakaa, lue ohjeet Marko.
 
@@ -33,8 +33,8 @@ Käyttönotto oli oikeasti simppeli homma. Kun vain malttoi odottaa, että mitta
 Tämä on helppoa. Otetaan vain mittari pois telakasta (kun on ensin ladannut sen mittarin siinä!) ja tökätään lihaan. Mittarissa on viiva mikä pitää mennä lihaan sisään, jotta se ei vaurioidu. Ainut ns. miinus tässä on se, että tuo on paksuhko, joten ihan mihin tahansa et välttämättä tökkää tätä. Mutta oikeasti jos mietitään niin tämähän on optimi juurikin paksummille paloille lihaa tai vaikka kanaa. Ei oikein mitään mittaria saa fiksusti esim. wingseihin. Tämmöisiin tapauksiin on sitten "instant read" mittari.
 
 {{< galleria cols="2" >}}
-![](images/2021-08-21-13.35.40.jpg)
-![](images/2021-08-21-13.35.28.jpg)
+![](images/meater-kokeilu-kuva-2.jpg)
+![](images/meater-kokeilu-kuva-3.jpg)
 {{< /galleria >}}
 
 Tämän jälkeen sovelluksesta voitkin valita mitä olet tekemässä ja se antaakin mukavasti ehdotukset lämpötiloista.
@@ -54,10 +54,10 @@ Esimerkiksi voit pistää hälyt, jos grillin lämpötila menee yli tai ali halu
 Sovellus myös laskee aikaa kauan menee, että homma on valmista sekä piirtää kivaa käppyrää ja saatpa sitä jaettua someenkin.
 
 {{< galleria cols="2" >}}
-![](images/2021-08-21-15.43.30.jpg)
-![](images/2021-08-21-16.12.37.jpg)
-![](images/2021-08-21-16.25.25.png)
-![](images/2021-08-21-16.37.35.jpg)
+![](images/meater-kokeilu-kuva-4.jpg)
+![](images/meater-kokeilu-kuva-5.jpg)
+![](images/meater-kokeilu-kuva-6.png)
+![](images/meater-kokeilu-kuva-7.jpg)
 {{< /galleria >}}
 
 Sovelluksesta näet myös aiemmat kokkaukset ja onpa siellä hieman videoitakin linkattu erilaisiin kokkauksiin. Meaterin tukisivut on englanniksi jos jotain apua tarvitsee sieltä päin.

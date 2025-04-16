@@ -3,7 +3,7 @@ author: Marko
 kategoriat:
   - Sekalaiset
 cover:
-  image: images/2021-07-03-16.20.56.jpg
+  image: images/tyovalineet-kuva-1.jpg
 date: "2021-08-19T09:46:11+00:00"
 avainsanat:
   - BBQ
@@ -30,7 +30,7 @@ Ajattelin hieman esitellä minkälainen arsenaali noita työvälineitä tällä 
 
 Näiden esittelyistä huomaakin sen, että muutettiin viime vuoden loppu puolella isompaan asuntoon, jossa on kunnon terassiakin. Ulkoruokintatilan varusteiden hankinnat lähti lentoon... Useampi vuotisia hankintojahan nämä on kuitenkin.
 
-![](images/2021-05-27-18.57.03.jpg)
+![](images/tyovalineet-kuva-2.jpg)
 
 ## Sähkösavustin
 
@@ -38,7 +38,7 @@ Sähkösavustin on myös tämän kesän uusia välineitä. Tämä on ns. peruss�
 
 Suosittelen kyllä hankkimaan sähköpöntön, jos semmoista ei ole ja savukalaa alkaa tekemään miele. Helppoa savustusta ja nopeasti. Kantsii muuten kokeilla kalaan Poppamiehen One for all rubia. Toimi savulohen kanssa aika kivasti.
 
-![](images/2021-08-05-19.18.42.jpg)
+![](images/tyovalineet-kuva-3.jpg)
 
 ## Weber Master-Touch pallogrilli
 
@@ -50,7 +50,7 @@ Tällä tulee tehtyä vähän kaikkea. Kesällä on tullut tehtyä niin ribsejä
 
 Ehdoton suositus myös tälle pallogrillille.
 
-![](images/2021-08-17-17.48.53.jpg)
+![](images/tyovalineet-kuva-4.jpg)
 
 ## Bono Minimo Kamado
 
@@ -62,7 +62,7 @@ Tämä tulee ehdottomasti pääsemään töihin ja saa luvan ystävystyä pallon
 
 Näin lyhyen ajan jälkeen varovainen suositus, mutta FB:n ryhmissä luetun perusteella hieman vahvempi suositus.
 
-![](images/2021-07-15-17.34.52.jpg)
+![](images/tyovalineet-kuva-5.jpg)
 
 ## Ooni Koda 16 pizzauuni
 
@@ -74,7 +74,7 @@ Jos väännät pizzaa ja varsinkin napolilaistyylinen pizza kiinnostaa niin Ooni
 
 Pizzahommia voi seurata [@slicesfromsavo](https://www.instagram.com/slicesfromsavo/) instagram tililtä!
 
-![](images/2021-07-02-21.10.17.jpg)
+![](images/tyovalineet-kuva-6.jpg)
 
 ## Muurikka
 

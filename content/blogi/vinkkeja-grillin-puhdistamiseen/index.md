@@ -3,7 +3,7 @@ author: Marko
 kategoriat:
   - Sekalaiset
 cover:
-  image: images/2022-04-19-09.11-1-scaled.jpg
+  image: images/grillivinkit-kuva-1.jpg
 date: "2022-04-19T07:56:23+00:00"
 avainsanat:
   - Grillaus

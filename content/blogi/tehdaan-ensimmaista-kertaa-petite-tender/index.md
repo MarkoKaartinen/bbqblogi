@@ -3,7 +3,7 @@ author: Marko
 kategoriat:
   - Reseptit
 cover:
-  image: images/2022-05-14-19.17.43.jpg
+  image: images/eka-petite-tender-kuva-1.jpg
 date: "2022-05-27T07:16:41+00:00"
 avainsanat:
   - BBQ
@@ -27,27 +27,27 @@ Sattuipa K-citymarketista löytymään -30% lapulla naudan petite tender (tunnet
 
 Suunnitelmana oli vetää tämä ns. reverse sear metodilla. Eli ensin ottaa sisälämmöt ja lopuksi sitten pintaan väriä. Lähdin simppelisti alkuun eli maustoin suolalla ja pippurilla.
 
-![](images/2022-05-14-18.15.35.jpg)
+![](images/eka-petite-tender-kuva-2.jpg)
 
 Grilliin pistin lämpöjä 120-150 astetta ja sitten lihakimpale epäsuoralle lämmölle [kamadon](/bono-minimon-ensikaryt/) hellään huomaan.
 
-![](images/2022-05-14-18.25.10.jpg)
+![](images/eka-petite-tender-kuva-3.jpg)
 
 Olihan siinä mulla Meater kiinni ja tässä ei kyllä kauaa mennyt. Ajatus oli ottaa sisälämpö siihen 48 asteeseen. Tässä meni itselle yllättävän vähän, mutta käyhän se järkeen, kun ei ole kovin iso kimpale kyseessä. Taisi alussa sisälämpö olla 13 astetta ja meni joku 20 minuuttia, että päästiin 48 asteeseen. Siitä sitten otin mötkön hieman lepäämään.
 
-![](images/2022-05-14-18.39.36.jpg)
+![](images/eka-petite-tender-kuva-4 .jpg)
 
 Mulla ei ollut savua tai mitään tuossa eli täysin epäsuoralla tulella tehtiin tämä. [Pallogrillissä](/weber-master-touch-gbs-e-5750-hiiligrilli-57-cm-yhden-kesan-jalkeen/) oli tulossa sitten samalla muuta lisuketta kuten kasvispihviä ja parsaa (pekonilla ja ilman) niin siihen hieman lisää lämpöä ja petite tender suoraan lämpöön.
 
-![](images/2022-05-14-19.07.19.jpg)
+![](images/eka-petite-tender-kuva-5.jpg)
 
 Tässä ei nyt sitten kauaa mennyt sillä sisälämpö oli hyvissä kuosissa ja annettiin käytännössä hitusen väriä ja pintaa tuolle mötkölle. Siitä sitten hitusen lepiä, kun haetaan hieman kärkisuolaa ja katetaan muut valmiiksi. Liha leikkuuseen (huomatkaa erittäin ammattimainen - not - tarjoilu).
 
-![](images/2022-05-14-19.14.37.jpg)
+![](images/eka-petite-tender-kuva-6.jpg)
 
 Lopullinen annos oli sitten seuraavanlainen: petite tender, itse tehdyt kermaperunat, perus salaatti, pekoniparsaa
 
-![](images/2022-05-14-19.17.43.jpg)
+![](images/eka-petite-tender-kuva-1.jpg)
 
 Tuohan hävisi tietysti hyvinkin nopeasti parempiin suihin ja ei tuosta petite tenderistä jäänyt mitään jäljelle. Muille syöjille tuo maistui hyvin ja en kyllä kaivannut noihin mitään lisämaustetta eli naudan kanssa suola ja pippuri on tosi hyvä. Tuossa tuli pippurikin mukavasti esiin ja suolaa oli pöydässä jos tuntui siltä, että sitä tarttee lisää.
 

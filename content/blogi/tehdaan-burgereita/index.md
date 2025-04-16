@@ -3,7 +3,7 @@ author: Marko
 kategoriat:
   - Reseptit
 cover:
-  image: images/2022-05-01-15.31.57-scaled.jpg
+  image: images/tehdaan-burgereita-kuva-1.jpg
 date: "2022-05-05T08:04:27+00:00"
 avainsanat:
   - BBQ
@@ -24,7 +24,7 @@ Aloitetaan sämpylällä. Kaupasta saa monenlaista burgerisämpylää ja voitpa 
 
 Nyt tällä kertaa ajattelin tehdä itse ekan kerran sämpylät ja löysinkin siihen sopivan ohjeen [Megguan facebookista](https://www.facebook.com/meggua.fi). Kannattaa joskus kokeilla tehdä itse sillä näistä tuli kyllä hyviä!
 
-![](images/2022-05-01-13.07.41.jpg)
+![](images/tehdaan-burgereita-kuva-2.jpg)
 
 ## Pihvi
 
@@ -45,32 +45,32 @@ No niin läpinät sikseen ja aletaan burgerin tekoon. Itse tykkään valmistella
 Pihvin muotoilu on helppoa sillä otat sopivan palan jauhelihaa ja painelet sen littanaksi. Tee siitä isompi, kuin sämpylä sillä pihvi kutistuu grillissä. Itse vielä tykkään tehdä noi leivinpaperin päälle niin on helppo tuosta vaan nappasta grilliin ja paperi pois. Näin näitä voi myös pinota päällekkäin näppärästi.
 
 {{< galleria >}}
-![](images/2022-05-04-16.53.23.jpg)
-![](images/2022-05-04-16.54.40.jpg)
-![](images/2022-05-04-16.54.46-1.jpg)
+![](images/tehdaan-burgereita-kuva-3.jpg)
+![](images/tehdaan-burgereita-kuva-4.jpg)
+![](images/tehdaan-burgereita-kuva-5.jpg)
 {{< /galleria >}}
 
 Mä tykkään grillata ensin sämpylöihin pienen pinnan eli hieman paahtaa näitä. Sitten olen siirtänyt ne sivuun epäsuoralle, jotta pysyy lämpimänä. Tässä on näytettä Weberin pallosta ja pikku kamadosta.
 
 {{< galleria >}}
-![](images/2022-05-01-15.22.01-1.jpg)
-![](images/2022-05-01-15.24.30-1.jpg)
-![](images/2022-05-04-17.15.25.jpg)
+![](images/tehdaan-burgereita-kuva-6.jpg)
+![](images/tehdaan-burgereita-kuva-7.jpg)
+![](images/tehdaan-burgereita-kuva-8.jpg)
 {{< /galleria >}}
 
 Sitten kun sämpylät on saanut hieman väriä niin pistän pihviin maustetta ennen kuin menee grilliin ja länttäsen sen sinne grilliin maustepuoli alaspäin ja pistän samantien toiselle puolen myös maustetta. Olen käyttänyt ihan itse tekemää spg mausteseosta (salt, pepper, garlic) tai sitten jotain mieluisaa rubia.
 
 {{< galleria cols="2" >}}
-![](images/2022-05-04-17.16.01.jpg)
-![](images/2022-05-04-17.16.40-1.jpg)
+![](images/tehdaan-burgereita-kuva-9.jpg)
+![](images/tehdaan-burgereita-kuva-10.jpg)
 {{< /galleria >}}
 
 Sit vaan annetaan pihvin paistua siinä kunnes alkaa olla homma valmis kääntöä varten. Käännön jälkeen pistän vielä sitten juustot päälle sulamaan. Ja burgeri alkaa olla hyvässä kuosissa kun juusto on sulanut.
 
 {{< galleria >}}
-![](images/2022-05-04-17.20.51.jpg)
-![](images/2022-05-04-17.21.08.jpg)
-![](images/2022-05-04-17.23.01.jpg)
+![](images/tehdaan-burgereita-kuva-11.jpg)
+![](images/tehdaan-burgereita-kuva-12.jpg)
+![](images/tehdaan-burgereita-kuva-13.jpg)
 {{< /galleria >}}
 
 Itse menen aika mutulla tässä ja harvemmin mittailen ja tutkin lämpöjä. Varsinkin, kun kyseessä on täysin nautapohjainen jauheliha niin se saa jäädäkin mediumiksi. Jos olisi sikanautaa tai kanaa niin pitäisi melkein kypsäksi vetää ja käyttäisin silloin lämpömittaria, jolla kokeilisin lämmöt.
@@ -82,9 +82,9 @@ Burgerit grillattu ja pistetään kasaan. Järjestys on oikeastaan jokaisella mi
 Mun alla olevissa burgereissä järjestys on jota kuinkin alhaalta ylös ollut seuraava: pohja, ketsuppi, pihvi juustolla, salaatti, tomaatti, suolakurkku, majoneesi, kansi. Voi olla hieman variaatiota noissa, mutta about noin.
 
 {{< galleria >}}
-![](images/2022-05-01-15.31.57-1.jpg)
-![](images/2022-05-02-17.18.40.jpg)
-![](images/2022-05-04-17.27.49.jpg)
+![](images/tehdaan-burgereita-kuva-14.jpg)
+![](images/tehdaan-burgereita-kuva-15.jpg)
+![](images/tehdaan-burgereita-kuva-16.jpg)
 {{< /galleria >}}
 
 Lisukkeeksi käy hyvin salaatit, potut tai mitä ikinä haluatkaan. Tässäkin on tyyli vapaa.

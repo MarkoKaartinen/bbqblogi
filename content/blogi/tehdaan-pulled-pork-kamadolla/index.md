@@ -3,7 +3,7 @@ author: Marko
 kategoriat:
   - Reseptit
 cover:
-  image: images/2021-08-21-17.02.10.jpg
+  image: images/pulled-pork-kamado-kuva-1.jpg
 date: "2021-08-23T05:42:52+00:00"
 avainsanat:
   - BBQ
@@ -25,47 +25,47 @@ Oli aika pistää [vasta hankittu kamado](/bono-minimon-ensikaryt/) töihin. Tar
 
 Vaimo löysi kaupasta maatiaispossun kasslerpalan ja sen kanssa testiin pääsi myös Meater+ lämpömittari (tästä tulee oma blogijuttu!). Otin tämän pariksi tunniksi huoneenlämpöön odottelemaan vuoroaan, kun värkkäsin [pizzataikinaa sunnuntaiksi](https://www.instagram.com/p/CS53sbfDK46/). Sen jälkeen paketista pois ja kuivailin sitä hieman talouspaperilla. Sitten laitoin Poppamiehen jenkkityylistä keltaista sinappia pintaan, jotta rubi pysyy hieman paremmin. Rubina oli kaapista löytynyt Poppamiehen pulled pork rubi. Tämä rubi taitaa olla vain tuossa esittelypakkauksessa missä on neljä eri rubia.
 
-![](images/2021-08-21-13.35.40.jpg "Lihamötkö vielä paketissaan")
+![](images/pulled-pork-kamado-kuva-2.jpg "Lihamötkö vielä paketissaan")
 
-![](images/2021-08-21-11.20.04.jpg "Sinappi ja rubi pinnassa")
+![](images/pulled-pork-kamado-kuva-3.jpg "Sinappi ja rubi pinnassa")
 
 Sitten olikin aika pistää kamado lämpimäksi. Hiilinä otin kokeiluun [Sunset Charcoalin Marabua](https://sunsetcharcoal.com/fi/). Savuja otin sitten omppupuun paloilla.
 
-![](images/2021-08-21-12.50.17.jpg "Niin hyvää puuta eikun siis hiiltä")
+![](images/pulled-pork-kamado-kuva-4.jpg "Niin hyvää puuta eikun siis hiiltä")
 
 Tavoitelämpö kamadolle oli 130 astetta. Siihen, kun sain lämmön asettumaan niin pistinkin lämmönjakolevyn ja kasslerin lämpöihin.
 
-![](images/2021-08-21-11.54.40.jpg "Sinne meni, nähdään joskus")
+![](images/pulled-pork-kamado-kuva-5.jpg "Sinne meni, nähdään joskus")
 
 Ensimmäinen tunti meni oikeastaan lämpöjä säätäessä. En tiedä olisiko pitänyt pistää grilli lämpöihin ja sitten lämmönjakolevy ja ritilä jonka jälkeen katsoa miten asettuu ja sitten vasta kassler. Joku viisaampi ehkä voi tässä auttaa. Sainkin sitten lämmöt asettumaan siihen 128 asteeseen ja säädin sitä sitten hieman vielä jossain välissä ja siitä noustiinkin ja taidettiin käydä 140 pinnassa ennen folioon käärimistä. Olin päättänyt kääriä kasslerin folioon, kun sen sisälämpötila on 67 astetta. Tämä tapahtuikin sitten noin 3 tunnin kohdalla. Alla kuva siitä, kun avaan luukun ekan kerran ja sen jälkeen takaisin folioon.
 
-![](images/2021-08-21-14.42.11.jpg "Ensimmäinen kannen avaus ja folioon")
+![](images/pulled-pork-kamado-kuva-6.jpg "Ensimmäinen kannen avaus ja folioon")
 
-![](images/2021-08-21-14.44.17.jpg "Folioitu ja takaisin lämpimään")
+![](images/pulled-pork-kamado-kuva-7.jpg "Folioitu ja takaisin lämpimään")
 
 Folioon käärimisessä lämmöt sitten hieman heitteli taas ja sainkin asettumaan 120-125 asteeseen, joka kelpasi. Sitten odottelin, kunnes sisälämpötila olisi 95 astetta ja tuo tökättävä lämpömittari menisi nätisti läpi lihasta. Tämän jälkeen otin pois kamadosta ja pistin sen pyyhkeen alle vetäytymään about tunniksi.
 
-[![](images/2021-08-21-16.34.12.jpg)](images/2021-08-21-16.34.12.jpg) Pyyhe vielä päälle ja lepäämään
+![](images/pulled-pork-kamado-kuva-8.jpg "Pyyhe vielä päälle ja lepäämään")
 
 Vilkaisin vetäytymisen aikana kamadoa ja siellähän oli hiiltä vielä kivasti jäljellä ja oltaisiin päästy kyllä hyvinkin pitkälle vielä tuolla määrällä. Päätin avata luukut kunnolla ja hieman lämpöjä ritilälle, jotta saan siivoiltua kasslerin jämät siitä. Itse pyrin puhdistamaan ritilät aina kokkauksen päätteeksi niin olisi siisti seuraavaan kertaan sitten.
 
-![](images/2021-08-21-16.14.58.jpg "Vielä olisi "löpöä" ollut")
+![](images/pulled-pork-kamado-kuva-9.jpg "Vielä olisi löpöä ollut")
 
 Oli aika katsoa mitä folion sisällä on ja sieltähän löytyy lihanpala!
 
-![](images/2021-08-21-16.47.33.jpg "Semmoinen sieltä paljastui")
+![](images/pulled-pork-kamado-kuva-10.jpg "Semmoinen sieltä paljastui")
 
 Revin kasslerin ja pistin sekaan hieman tuota samaa rubia mitä pinnalla ja Poppamiehen smoky apple bbq kastiketta.
 
-![](images/2021-08-21-17.02.10.jpg "Pulled porkkia")
+![](images/pulled-pork-kamado-kuva-1.jpg "Pulled porkkia")
 
 Pitihän se pikku burgeri tekaista tuosta. Väliin siis pulled porkkia, itse tehtyä kurkkusalaattia, tomaattia ja Koskenlaskija cheddar soosia. Lisukkeeksi sitten hieman coleslawta. Ellen väärin muista niin coleslawn ohje on [K-ruoka sivulta](https://www.k-ruoka.fi/reseptit/coleslaw-eli-amerikkalainen-kaalisalaatti).
 
-![](images/2021-08-21-17.11.28.jpg "Mmmmm. Pulled pork burger")
+![](images/pulled-pork-kamado-kuva-11.jpg "Mmmmm. Pulled pork burger")
 
 Parin tunnin jälkeen oli muuten kamadossa vielä kivat jälkilämmöt ja oli vielä lämmin keramiikka.
 
-![](images/2021-08-21-18.42.58.jpg 'Lämmöt parin tunnin "sammuttamisen" jälkeen')
+![](images/pulled-pork-kamado-kuva-12.jpg 'Lämmöt parin tunnin "sammuttamisen" jälkeen')
 
 ## Resepti lyhykäisyydessään
 

@@ -6,7 +6,7 @@ kategoriat:
   - Pallogrillit
 cover:
   alt: 2021-08-05 19.18.42
-  image: images/2021-08-05-19.18.42.jpg
+  image: images/weber-57-kuva-1.jpg
 date: "2021-08-17T07:23:11+00:00"
 avainsanat:
   - E-5750
@@ -27,7 +27,7 @@ Tämä grilli oli itselle ensimmäinen hiiligrilli minkä kanssa on tullut pelat
 
 Sen sanon jo tässä, että kaasugrillihän on helppo käyttää ja nopea. Kaasu päälle, grilli lämpöihin ja ruoka tulille.
 
-![](images/2021-08-05-19.18.42.jpg)
+![](images/weber-57-kuva-1.jpg)
 
 Tein jonkun verran tutkimista ja taustatyötä ennen, kuin päädyin tähän Weberin malliin. Toisena vaihtoehtona olisi ollut vastaava malli, mutta saranalla - päädyin haluamaan tämän irroitettavan kannen mallin sillä luin, että saranan kanssa on ollut ongelmia. Halusin myös säätää ilma-aukon paikkaa kantta kääntelemällä. Yhtenä syynä oli myös näiden Weberin pallojen takuu. Alla onkin listaus Weberin sivuilta takuusta:
 
@@ -44,16 +44,16 @@ Sattuipa tuolloin toukokuussa olemaan vielä Motonetissä kampanja tämän grill
 
 Ensin lähdettiin opettelemaan grillin sytyttämistä piippusytyttimellä. En ollut aiemmin käyttänyt, mutta tämähän onnistuu helposti. Piippuun hiiliä ja sytytyspala alle. Sitten sytytys ja odotellaan, että hiilet/briketit syttyy. Tämän jälkeen kaadetaan hiilet grilliin. Tämä metodi on ollut itsellä pääasiallisesti käytössä ja en ole vielä kokenut tarvetta muille tavoille. Tulenen testaamaan paria tapaa tänne blogiin, mutta siitä lisää myöhemmin.
 
-![](images/2021-06-05-16.59.41.jpg)
+![](images/weber-57-kuva-2.jpg)
 
 Kun grilli on saatu syttymään niin onkin hyvä puhua mitä kaikkea onkaan tullut tehtyä. Sitähän on grillattu kaikenlaista aina perus makkarasta ribseihin asti. [Ribsit](/ikean-teline-ribseille-grillikylkiteline/) on tällä hetkellä niitä ns. pidempiä grillauksia ja makkarat taasen näitä nopeampia. Ajatuksena on vielä grillailla paljon lisää ja toiveissa olisi jatkaa grillausta ympärivuoden eikä vain kevät-kesä-syksy akselilla. Kokeiluun on vielä menossa pulled pork ja muuta pidemmän kypsytyksen kamaa. [Wingsejä](/ikean-viiden-euron-vortex-seka-wingsien-teko/) on tullut myös tehtyä ja täytyy vielä kehua niitä. Alla onkin pari kuvaa vielä.
 
 {{< galleria cols="2" >}}
-![](images/2021-08-07-18.11.39-1.jpg)
-![](images/2021-07-23-17.46.30.jpg)
-![](images/2021-07-10-14.26.01.jpg)
-![](images/2021-05-29-18.30.29.jpg)
-![](images/2021-08-07-18.47.34.jpg)
+![](images/weber-57-kuva-3.jpg)
+![](images/weber-57-kuva-4.jpg)
+![](images/weber-57-kuva-5.jpg)
+![](images/weber-57-kuva-6.jpg)
+![](images/weber-57-kuva-7.jpg)
 {{< /galleria >}}
 
 ## Ajatuksia itse grillistä

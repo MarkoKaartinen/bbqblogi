@@ -3,7 +3,7 @@ author: Marko
 kategoriat:
   - Blogi
 cover:
-  image: images/joshua-kantarges-wo4cywnizz4-unsplash-1.jpg
+  image: images/tervetuloa-kuva-1.jpg
 date: "2021-08-16T15:16:37+00:00"
 avainsanat:
   - BBQ
@@ -11,7 +11,7 @@ avainsanat:
 title: Tervetuloa BBQ blogi sivustolle!
 slug: tervetuloa-bbq-blogi-sivustolle
 ---
-![](images/joshua-kantarges-wo4cywnizz4-unsplash-1.jpg)
+![](images/tervetuloa-kuva-1.jpg)
 
 Tervetuloa täysin uuteen blogiin nimeltä BBQ blogi. Aika kekseliästä eikös?
 

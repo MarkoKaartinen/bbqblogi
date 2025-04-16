@@ -3,7 +3,7 @@ author: Marko
 kategoriat:
   - Lisävarusteet
 cover:
-  image: images/2021-07-10-14.26.01.jpg
+  image: images/ikea-ribs-kuva-1.jpg
 date: "2021-08-17T04:50:12+00:00"
 avainsanat:
   - BBQ
@@ -19,7 +19,7 @@ slug: ikean-teline-ribseille-grillikylkiteline
 ---
 Jatketaan "Ikea hackeilla". Tällä kertaa kohteena on ribsit eli grillikyljet. Ikeasta saatava kattilankansiteline ei millään muotoa ole tarkoitettu tähän tarkoitukseen, mutta toimii kerrassaan mainiosti.
 
-![](images/2021-07-10-14.26.01.jpg)
+![](images/ikea-ribs-kuva-1.jpg)
 
 Hae siis Ikeasta [Variera](https://www.ikea.com/fi/fi/p/variera-kattilankansiteline-ruostumaton-teraes-70154800/) niminen kattilankansiteline hintaan 5,99€ ja ala grillaamaan ribsejä! Ei muuten kannata niitä kumisia osia laittaa paikalleen. Ne palanee kivasti grillissä.
 

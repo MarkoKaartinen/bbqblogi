@@ -5,7 +5,7 @@ kategoriat:
   - Reseptit
   - Savustus
 cover:
-  image: images/2021-09-18-00.34.43-5.jpg
+  image: images/mustang-kylma-kuva-1.jpg
 date: "2021-09-20T06:52:58+00:00"
 avainsanat:
   - Bono
@@ -24,7 +24,7 @@ slug: mustang-savunkehitin-kylmasavustuksessa-kokeillaan-tehda-kylmasavulohta-ja
 ---
 Halusin lähteä kokeilemaan kylmäsavustusta sillä en ollut sitä itse ennen tehnyt ja nyt alkaa olla oikein sopivat kelit siihen hommaan. Tutkiskelun jälkeen päädyin hankkimaan [Mustang savunkehittimen](https://mustang-grill.com/tuotteet/savunkehitin-kylmasavustukseen/), jota sitten lähdin kokeilemaan viime perjantaina.
 
-![](images/savunkehitin.jpg "Pumppu ja savunkehitin (Kuva: mustang-grill.com)")
+![](images/mustang-kylma-kuva-2.jpg "Pumppu ja savunkehitin (Kuva: mustang-grill.com)")
 
 Tutkiskelin jonkin verran tätä asiaa ja päädyin tähän malliin parista syystä. Ensinnäkin olin kuullut hieman vaihtelevia kokemuksia niistä savugeneraattoreista mitkä kiertää kehää ja sytytetään esim. kynttilällä. Osa ei pala kunnolla, osa palaa hyvin, osassa hyppii sitten "aidan yli" ja muuta vastaavaa. Toinen vaihtoehto oli semmoinen mikä käyttää puukiekkoja, joka oli mulla toisena vaihtoehtona. Tähän kuitenkin päädyin koska, tämän saa ulkopuolelle ja näin purujen lisäys on helppoa sekä tässä voi säätää hieman savun määrää tuota pumpun tehoja säätämällä.
 
@@ -39,8 +39,8 @@ Muuten ensivaikutelmat on positiiviset ja odotukset on suhteellisen korkealla t�
 Tuohan sytytetään aukoista mitä on kaksi kappaletta ja siitä se sitten lähtee palamaan ja pumpun tehoja säätämällä saat säädettyä tuota savun määrää. Itse virittelin kehittimen Bono Minimoon sillä pienellä korotuksella sen sai näppärästi aukosta sisään. Kuvissa on vielä paikallaan hieno patentoitu (not) sadesuojakin!
 
 {{< galleria cols="2" >}}
-![](images/2021-09-15-18.05.31.jpg)
-![](images/2021-09-15-17.59.06.jpg)
+![](images/mustang-kylma-kuva-3.jpg)
+![](images/mustang-kylma-kuva-4.jpg)
 {{< /galleria >}}
 
 ## Tehdään kylmäsavulohta ja savujuustoa(?)
@@ -51,7 +51,7 @@ Homma kuitenkin alkaa jo torstaina, kun pistetään kalat suolaan. Vaimo olikin 
 
 Isä oli vinkannut graavisuolasta, jota hän itse on käyttänyt ja siinä onkin kaikki valmiina. Tätä saa myös [Puuilosta](https://www.puuilo.fi/mausteporssi-graavisuola-1kg) ja laitoin sitten kalan suolaan astiaan ja peitin foliolla.
 
-![](images/2021-09-16-15.41.46.jpg "Suolattu kala")
+![](images/mustang-kylma-kuva-5.jpg "Suolattu kala")
 
 Kylmäsavustushan ei kypsennä kalaa vaan kalan "kypsentyy" oikeastaan tuossa suolausvaiheessa. Kylmäsavustuksella haetaan siis savun makua tuohon kalaan. Samaten kylmäsavustuksessa lämpötila ei saisi nousta liian korkeaksi ja verkossa olikin useaa lämpötilarajaa tähän. Nyt on kuitenkin hyviä kelejä kun lämpötila on siinä 10 asteen kantturassa ja ei ainakaan nouse yli 20.
 
@@ -59,19 +59,19 @@ Kalat on siis ollut yön yli jääkaapissa suolaantumassa ja on aika aloittaa ky
 
 Itse savunkehittimen latasin hienolla kylmäsavupurulla ja sitten karheammalla savustushakkeella mitä olen käyttänyt lämminsavustukseen. Suhde oli suunnilleen 1 osa karheaa ja 3 osaa hienoa. Laitoin koko putken täyteen ja arvelin saavani sillä ohjeen mukaiset 4-5 tuntia savua.
 
-![](images/2021-09-17-07.20.52.jpg "Bono Minimo kylmäsavustuksessa")
+![](images/mustang-kylma-kuva-6.jpg "Bono Minimo kylmäsavustuksessa")
 
 Tämähän on siitä helppoa hommaa, että se tapahtuu itsekseen. Kävin välistä säätämässä tuon pumpun tehoa, jotta savua ei olisi kamadossa liikaa. Sopiva pumpun teho oli tuohon noin puolivälissä.
 
 Ihmettely oli kova, kun 4 tunnin jälkeen polttoainetta oli vielä reilusti ja lisäystarvetta ei ollutkaan. Sama homma oli vielä 5, 6.... tunnin jälkeenkin. Loppujen lopuksi annoin tuon pöhistä savua noin 14 tuntia ilman, että lisäsin purua tuonne. Olisi vielä jaksanut varmaan 2-3 tuntia vielä, mutta alkoi savustajasta loppua veto. Tämä johtunee siitä, että ohjeissa oleva 4-5h aika-arvio on karkeammille puruille ja ehkä täydellä savun tuotolla. Tuohonhan saisi patentoitua myös suppiloa ja jatkoa jos haluaisi.
 
-![](images/2021-09-17-20.19.00.jpg "Tunnelmakuvaa illalta")
+![](images/mustang-kylma-kuva-7.jpg "Tunnelmakuvaa illalta")
 
 Itseltä, kun löytyy vielä vakuumikone niin pistin tuotokset vakuumiin ja toinen pala kalaa meni pakkaseen ja toinen jääkaappiin - samoin juusto. Ajatus oli lauantaina hieman maistella näitä tuotoksia.
 
 {{< galleria cols="2" >}}
-![](images/2021-09-18-00.34.43.jpg)
-![](images/2021-09-18-00.34.43-1.jpg)
+![](images/mustang-kylma-kuva-8.jpg)
+![](images/mustang-kylma-kuva-9.jpg)
 {{< /galleria >}}
 
 ## Miten onnistui ja mitäs sitten savustetaan?
@@ -80,7 +80,7 @@ Kalahan onnistui oikein mainiosti. Ei mitään valittamista ja pitää alkaa vaa
 
 Vaimohan tuosta tekee lapin lumous tyylistä sörsseliä leivän päälle syötäväksi. Kylläpä nuo kelpasi lauantain illan istujaisissakin, kun maistatin.
 
-![](images/2021-09-19-00.30.49-2.jpg)
+![](images/mustang-kylma-kuva-10.jpg)
 
 Niin se juusto. Oltermanni ei ihan nappiin mennyt. Hyvähän se on ja syödään pois, mutta pitää ehkä tehdä lisää kokeiluita. Saattoi tulla hieman liikaa jopa savua tuolle palalle juustoa. **Tähän jos on vinkkejä niin otan kyllä vastaan!**
 
