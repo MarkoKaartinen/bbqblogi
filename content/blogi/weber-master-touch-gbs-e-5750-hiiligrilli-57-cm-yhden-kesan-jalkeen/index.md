@@ -36,7 +36,7 @@ Tein jonkun verran tutkimista ja taustatyötä ennen, kuin päädyin tähän Web
 - Muoviosat (5 Vuotta), Ei koske haalistumista tai värimuutoksia – 05-2026
 - Kaikki muut osat (2 Vuotta) – 05-2023
 
-Yhtenä syynä oli myös näiden jälleenmyyntiarvon säilyminen. Nämä menee käytettynäkin kaupaksi. Myös varaosien sekä lisävarusteiden saatavuus oli yhtenä kriteerinä. Olenkin jo parista [lisävarusteesta kirjoittanutkin tänne](/kategoria/lisavarusteet/).
+Yhtenä syynä oli myös näiden jälleenmyyntiarvon säilyminen. Nämä menee käytettynäkin kaupaksi. Myös varaosien sekä lisävarusteiden saatavuus oli yhtenä kriteerinä. Olenkin jo parista [lisävarusteesta kirjoittanutkin tänne](/kategoria/lisävarusteet/).
 
 Sattuipa tuolloin toukokuussa olemaan vielä Motonetissä kampanja tämän grillin ostaneille, jossa sai piippusytyttimen ja hieman hiiliä matkaan. Otin myös omaan settiin valurautaisen GBS systeemiin sopivan [ritilänkin](https://www.weber.com/FI/fi/tarvikkeet/ruoanlaitto/gourmet-bbq-system/8834.html?cgid=502#start=1).
 
