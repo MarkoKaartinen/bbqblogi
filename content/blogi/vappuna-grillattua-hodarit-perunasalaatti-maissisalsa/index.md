@@ -2,7 +2,6 @@
 title: 'Vappuna grillattua: Hodarit, perunasalaatti ja maissisalsa'
 slug: 'vappuna-grillattua-hodarit-perunasalaatti-maissisalsa'
 date: '2025-05-07T14:19:02+03:00'
-draft: true
 author: Marko
 cover:
   image: images/IMG_6478.jpeg
