@@ -53,6 +53,6 @@ Tämä on ehkä edullisin lisäosa mitä olen omaan pallogrilliin hankkinut. Voi
 
 Vortexiahan voi käyttää myös esim. toisin päin jolloin saat kuuman alueen keskelle tai sitten erottamaan hiilet keskialueelta. Tietty voit grillailla muutakin, kuin wingsejä tällä. Itselle pääasiallinen käyttötarkoitus on nimenomaan wingsit ja tämänkaltainen eväs muutenkin. Kokeiluun on tulossa myös ikään kuin luuttomat "wingsit".
 
-Meinasi jo unohtua. Alkuperäisen idean tähän sain [Lähiöfaijat grillaa](https://www.facebook.com/lahiofaijatgrillaa/) Facebook sivulta. Eli kiitos vain heidän suuntaan!
+Meinasi jo unohtua. Alkuperäisen idean tähän sain [Lähiöfaijat grillaa](https://www.instagram.com/lahiofaijat/) Facebook sivulta. Eli kiitos vain heidän suuntaan!
 
 Joko aloit suunnittelemaan Ikean reissua?
