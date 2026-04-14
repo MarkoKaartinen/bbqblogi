@@ -9,17 +9,50 @@
         <meta name='discourse-username' content='marko'>
 
         <script type="text/javascript">
-            DiscourseEmbed = {
-                discourseUrl: 'https://bbq.palstat.fi/',
-                discourseEmbedUrl: "{{ .Permalink }}",
-                className: document.body.classList.contains('dark') ? 'discourse-upotus-tumma' : 'discourse-upotus',
-            };
+            function initializeDiscourseEmbed() {
+                // Tyhjennä discourse-comments div
+                const discourseCommentsDiv = document.getElementById('discourse-comments');
+                if (discourseCommentsDiv) {
+                    discourseCommentsDiv.innerHTML = '';
+                }
 
-            (function() {
-                var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
-                d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
-            })();
+                DiscourseEmbed = {
+                    discourseUrl: 'https://bbq.palstat.fi/',
+                    discourseEmbedUrl: "{{ .Permalink }}",
+                    className: document.body.classList.contains('dark') ? 'discourse-upotus-tumma' : 'discourse-upotus',
+                };
+
+                // Poista olemassa oleva Discourse-skripti, jos se on jo ladattu
+                const existingScript = document.querySelector('script[src*="javascripts/embed.js"]');
+                if (existingScript) {
+                    existingScript.remove();
+                }
+
+                // Ladataan Discourse-skripti
+                (function() {
+                    var d = document.createElement('script');
+                    d.type = 'text/javascript';
+                    d.async = true;
+                    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+                })();
+            }
+
+            function observeThemeChanges() {
+                // Tarkkaile muutoksia body-elementin class-attribuutissa
+                const observer = new MutationObserver(() => {
+                    // Päivitä DiscourseEmbed ja lataa skripti uudelleen
+                    initializeDiscourseEmbed();
+                });
+
+                observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+            }
+
+            // Alusta DiscourseEmbed ja lisää tarkkailija teemamuutoksille
+            document.addEventListener("DOMContentLoaded", function() {
+                initializeDiscourseEmbed();
+                observeThemeChanges();
+            });
         </script>
     </div>
 {{ end }}
